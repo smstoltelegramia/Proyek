@@ -1,4 +1,4 @@
-package com.tigerworkshop.sms2telegram.ui
+package com.masgun.prioritas.ui
 
 import android.Manifest
 import android.content.Intent
