@@ -1,4 +1,4 @@
-package com.tigerworkshop.sms2telegram.data
+package com.masgun.prioritas.data
 
 import kotlinx.coroutines.channels.BufferOverflow
 import kotlinx.coroutines.flow.MutableSharedFlow
