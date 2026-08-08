@@ -1,4 +1,4 @@
-package com.tigerworkshop.sms2telegram.sms
+package com.masgun.prioritas.sms
 
 import android.Manifest
 import android.content.BroadcastReceiver
