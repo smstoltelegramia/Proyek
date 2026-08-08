@@ -152,7 +152,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun openHowToUsePage() {
-        val uri = "https://github.com/imTigger/SMS2Telegram/tree/main?tab=readme-ov-file#how-to-use".toUri()
+        val uri = "https://github.com/smstoltelegramia/Proyek/tree/main?tab=readme-ov-file#how-to-use".toUri()
         val intent = Intent(Intent.ACTION_VIEW, uri).apply {
             addCategory(Intent.CATEGORY_BROWSABLE)
         }
