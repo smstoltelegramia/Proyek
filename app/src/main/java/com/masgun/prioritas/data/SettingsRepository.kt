@@ -1,4 +1,4 @@
-package com.tigerworkshop.sms2telegram.data
+package com.masgun.prioritas.data
 
 import android.content.Context
 import androidx.core.content.edit
