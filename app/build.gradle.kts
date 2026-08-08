@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.tigerworkshop.sms2telegram"
+    namespace = "com.masgun.prioritas"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.tigerworkshop.sms2telegram"
+        applicationId = "com.masgun.prioritas"
         minSdk = 21
         targetSdk = 36
         versionCode = 7
